@@ -1,2 +1,2 @@
-# .github
-Autonomy, Reliability and Control Lab (University of Verona)
+# ARC
+Autonomy, Reliability and Control Lab -- University of Verona
