@@ -1,2 +1,2 @@
 # ARC
-Autonomy, Reliability and Control Lab -- University of Verona
+Autonomy, Reliability and Control Lab - University of Verona
